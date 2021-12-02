@@ -3,9 +3,7 @@
 
 ## 注意 注意注意
 
-    HUBdcoker里面有一个 nolanjdc/nvjdc 镜像不要拉 我看还有500多人拉了 起名都有所图 别的我不多说了把
-
-    我自己的docker  nolanhzy/nvjdc 认清楚
+    我是fork  NolanHzy大佬的，仅用作自己研究学习！
 
 ## 提示
 
